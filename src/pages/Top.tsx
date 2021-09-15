@@ -1,7 +1,8 @@
+import { DefaultLayout } from 'layouts'
 import React from 'react'
 
 const Top: React.FC = () => {
-  return <div>topppppppp</div>
+  return <DefaultLayout>topppppppp</DefaultLayout>
 }
 
 export default Top
