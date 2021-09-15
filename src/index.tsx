@@ -3,9 +3,11 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import reportWebVitals from './reportWebVitals'
 import Router from 'Router'
+import GlobalStyle from 'styles/GlobalStyles'
 
 ReactDOM.render(
   <React.StrictMode>
+    <GlobalStyle />
     <Router />
   </React.StrictMode>,
   document.getElementById('root'),

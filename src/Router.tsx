@@ -3,6 +3,7 @@ import { Top } from 'pages'
 
 const Path = {
   top: '/',
+  test: '/test',
 }
 
 const Router = () => (
