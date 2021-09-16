@@ -1,8 +1,8 @@
 const theme = {
   default: {
     base: '#ebecf0',
-    brighter: '#efe',
-    darker: '#bababa',
+    brighter: '#fff',
+    darker: '#babecc',
     accent: '#0d3563',
   },
 }
